@@ -1,2 +1,2 @@
 # HoAGDP
-Horn of AFrica Gateway Development Project
+Horn of Africa Gateway Development Project
